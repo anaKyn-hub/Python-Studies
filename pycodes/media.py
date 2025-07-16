@@ -2,6 +2,7 @@ def calcMedia(nota1,nota2):
   media = (nota1 + nota2)/2
   return media
 
+#Cálculo de Média Simples
 while True:
   try:
     n1 = int(input("Digite a nota 1: "))
